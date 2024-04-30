@@ -1,0 +1,19 @@
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: 2px solid white;
+  }
+  
+  .links a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  .logo {
+    font-weight: bold;
+  }

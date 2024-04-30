@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+    background-color:#1E1E1E ;
+    height: 100vh;
+    background-color: black;
+}
+
+.box{
+    background-color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 470px;
+    height: 550px;
+    width: 850px;
+}
+.eg2{
+    color: white;
+    margin: 90px;
+}
+input[type="text"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 15px;
+    color:rgb(128,128,128);
+}
+input[type="email"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 15px;
+    color:rgb(128,128,128);
+}
+input[type="password"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 15px;
+    color:rgb(128,128,128);
+}
+
+input[type="date"]{
+    border: none;
+    background-color:black;
+    border-bottom: 2px white solid;
+    width: 640px;
+    padding: 15px;
+    color:rgb(128,128,128);
+}
+.eg3{
+    margin-top: 15px;
+}
+input[type="radio"]{
+    margin:0px 20px 0 10px;
+}
+input[type="checkbox"]{
+    margin:0px 20px 0 10px;
+}
+.eg4{
+    margin-top: 15px;
+}
+.eg5{
+    background-color: white;
+    margin-top: 30px;
+    padding: 9px;
+    width: 120px;
+    border:none;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
